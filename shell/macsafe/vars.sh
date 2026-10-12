@@ -16,3 +16,6 @@ SOURCES_FILE="${0:A:h}/macsafe_sources.conf"
 
 # Anzahl der aufzubewahrenden Snapshots (0 = unbegrenzt)
 KEEP_SNAPSHOTS=30
+
+# Logdatei
+LOG_FILE="$HOME/macsafe.log"
