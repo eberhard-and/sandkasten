@@ -1,4 +1,4 @@
 # Default ignored files
 /.idea/*
 /sandkasten.iml
-./shell/macsafe/macsafe_sources.conf
+shell/macsafe/macsafe_sources.conf
