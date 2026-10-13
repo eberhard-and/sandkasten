@@ -1,0 +1,6 @@
+# rename to macsafe_sources.conf
+#
+# Directories to back up - one path per line.
+# Blank lines and lines starting with '#' are ignored; '~' expands to $HOME.
+# Spaces in paths do not need escaping; "..", '..', or "\ " also work.
+~/source1
